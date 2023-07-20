@@ -4,3 +4,4 @@ This project aims to accomplish the following:
 -Visualizing which factors contribute to customer churn.
 -Build a prediction model that will classify whether a customer is going to churn or not.
 -Based on the model performance, choosing a model that will attach a probability to the churn to make it easier for the customer service to target low hanging fruits in their efforts to prevent churn.
+
